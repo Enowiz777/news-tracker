@@ -6,3 +6,13 @@
 
 20230105
 - Initiated the git repository.
+- Get News API
+- Display on the screen
+
+20230109
+- Incorporate bootstrap to do some design of the headline data.
+- Install styled-components
+```
+npm install styled-components
+```
+- 
